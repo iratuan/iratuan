@@ -8,7 +8,7 @@ Engenheiro de softwares \ Desenvolvedor de sistemas com experiência em stacks J
 
 ## Formação
 - Especialista em Ciências de Dados - Uninassau (Em andamento)
-- Especialista em Desenvolvimento e Engenharia de Software, Desenvolvimento Mobile e Inteligência Artificial - Uninassau (2023)
+- Especialista em Desenvolvimento e Engenharia de Software, Desenvolvimento Mobile e Inteligência Artificial - Uninassau (2024)
 - MBA em Gerência de Projetos - Uninassau (2022)
 - Bacharel em Ciências da Computação pela Faculdade Lourenço Filho (2017)
 - Licenciatura Plena em Física pela Universidade Estadual do Ceará (interrompida em 2008)
@@ -27,7 +27,16 @@ Engenheiro de softwares \ Desenvolvedor de sistemas com experiência em stacks J
 
 ## Experiência profissional
 
-### Join Tecnologia e Design - 2019
+### Engesoftware - 2024
+
+Arquiteto de Softwares
+
+- Definição de arquitetura de sistemas para os mais diversos segmentos de clientes do Banco do Nordeste do Brasil.
+- Desenvolvimento de sistemas para os mais diversos segmentos de clientes do Banco do Nordeste do Brasil.
+
+Tecnologias: Java JEE, EJB, JPA, TDD, ATDD, OpenAPI, HealthCheck, IBM DB2, IMB Web Sphere, IBM MQ, Open Liberty, React, React JS, HTML, CSS,  Javascript, Typescript, Jenkins, Scrum.
+
+### Join Tecnologia e Design - 2019 - 2024
 
 Engenheiro de Software/Desenvolvedor Java 
 
