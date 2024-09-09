@@ -7,8 +7,9 @@ Engenheiro de softwares \ Desenvolvedor de sistemas com experiência em stacks J
 ---
 
 ## Formação
-
-- MBA em Gerência de Projetos - Uninassau (previsão de conclusão: 2022)
+- Especialista em Ciências de Dados - Uninassau (Em andamento)
+- Especialista em Desenvolvimento e Engenharia de Software, Desenvolvimento Mobile e Inteligência Artificial - Uninassau (2023)
+- MBA em Gerência de Projetos - Uninassau (2022)
 - Bacharel em Ciências da Computação pela Faculdade Lourenço Filho (2017)
 - Licenciatura Plena em Física pela Universidade Estadual do Ceará (interrompida em 2008)
 - Técnico em Construção Civil com habilitação em Edificações pelo IFCE (2007)
