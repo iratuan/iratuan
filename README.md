@@ -54,7 +54,7 @@ Desenvolvimento e sustentação de sistemas para Secretaria Municipal da Saúde 
 Sistemas em destaque:
 
 - SIMDA - Sistema de monitoramento diário de agravos
-- PAGES
+- PAGES - Portal de apoio à gestão em saúde
 - COGTES - Sitema de gestão de estágios
 - Intranet SMS - Sistema Intranet da Secretaria Municipal da Saúde de Fortaleza
 
@@ -89,7 +89,7 @@ Web Designer / Web Master
 ## Redes sociais
 
 - 🔗 Perfil no LinkedIn: [https://www.linkedin.com/in/iratuan/](https://www.linkedin.com/in/iratuan/)
-- 🔗 Perfil no github: [https://github.com/](https://github.com/)
+- 🔗 Perfil no Github: [https://github.com/](https://github.com/)
 - 🔗 Perfil na Alura: [https://cursos.alura.com.br/user/iratuan](https://cursos.alura.com.br/user/iratuan)
 - 🔗 Certificação PSM I [Scrum.org](http://scrum.org)  [https://www.scrum.org/certificates/631421](https://www.scrum.org/certificates/631421)
 
